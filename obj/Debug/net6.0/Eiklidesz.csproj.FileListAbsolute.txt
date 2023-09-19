@@ -1,0 +1,14 @@
+C:\Users\f26xc0\Desktop\Eiklidesz\bin\Debug\net6.0\Eiklidesz.exe
+C:\Users\f26xc0\Desktop\Eiklidesz\bin\Debug\net6.0\Eiklidesz.deps.json
+C:\Users\f26xc0\Desktop\Eiklidesz\bin\Debug\net6.0\Eiklidesz.runtimeconfig.json
+C:\Users\f26xc0\Desktop\Eiklidesz\bin\Debug\net6.0\Eiklidesz.dll
+C:\Users\f26xc0\Desktop\Eiklidesz\bin\Debug\net6.0\Eiklidesz.pdb
+C:\Users\f26xc0\Desktop\Eiklidesz\obj\Debug\net6.0\Eiklidesz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f26xc0\Desktop\Eiklidesz\obj\Debug\net6.0\Eiklidesz.AssemblyInfoInputs.cache
+C:\Users\f26xc0\Desktop\Eiklidesz\obj\Debug\net6.0\Eiklidesz.AssemblyInfo.cs
+C:\Users\f26xc0\Desktop\Eiklidesz\obj\Debug\net6.0\Eiklidesz.csproj.CoreCompileInputs.cache
+C:\Users\f26xc0\Desktop\Eiklidesz\obj\Debug\net6.0\Eiklidesz.dll
+C:\Users\f26xc0\Desktop\Eiklidesz\obj\Debug\net6.0\refint\Eiklidesz.dll
+C:\Users\f26xc0\Desktop\Eiklidesz\obj\Debug\net6.0\Eiklidesz.pdb
+C:\Users\f26xc0\Desktop\Eiklidesz\obj\Debug\net6.0\Eiklidesz.genruntimeconfig.cache
+C:\Users\f26xc0\Desktop\Eiklidesz\obj\Debug\net6.0\ref\Eiklidesz.dll
